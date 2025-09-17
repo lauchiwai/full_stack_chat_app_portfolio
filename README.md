@@ -28,3 +28,10 @@
 - **容器化**: 所有服務均使用 Docker 容器化，便於開發、測試與部署。
 - **CI/CD 流水線**: 為每個服務建立了自動化建置、測試與部署流程。
 - **內容安全政策 (CSP)**: 於前端實施 CSP 標頭，有效防禦 XSS 等網路攻擊。
+
+| 項目 | 連結 | 帳號資訊 |
+| :--- | :--- | :--- |
+| **前端應用 (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) (請替換為您的真實網址) |  |
+| **測試帳號 1** | | **帳號：** `demo.user@example.com` <br> **密碼：** `DemoPassword123!` |
+| **測試帳號 2** | | **帳號：** `test.user@example.com` <br> **密碼：** `TestPassword456!` |
+
