@@ -10,7 +10,7 @@
 | :--- | :--- | :--- | :--- |
 | **主後端服務** | .NET 8, MSSQL, RabbitMQ, Docker | [dotnet_chatroom_service](https://github.com/lauchiwai/dotnet_chatroom_service) | 用戶認證、單字管理、文章管理、聊天室、Outbox 模式 |
 | **AI 聊天服務** | FastAPI, MongoDB, Qdrant, Docker | [py_chat_service](https://github.com/lauchiwai/py_chat_service) | 聊天記錄儲存、RAG AI 問答、向量搜尋 |
-| **前端應用** | Vue 3, TypeScript, Pinia, Docker | [vue_chatroom_service](https://github.com/lauchiwai/vue_chatroom_service) | 響應式網頁、即時通訊、學習功能、雙 Token 驗證 |
+| **前端應用** | Vue 3, TypeScript, Pinia, Docker | [vue_chatroom_service](https://github.com/lauchiwai/vue_chatroom_service) | 響應式網頁、即時通訊、學習功能、雙 Token 驗證、CSP |
 
 ## 🛠️ 技術亮點 (Technical Highlights)
 
@@ -20,7 +20,7 @@
 - **Outbox 模式**: 確保在分散式系統中，資料庫更新與訊息發送的最終一致性。
 
 ### ⚡ 即時性與體驗
-- **Server-Sent Events (SSE)**: 用於實現即時數據推送（如新訊息、通知），提供流暢的用戶體驗。
+- **Server-Sent Events (SSE)**: 用於實現即時數據推送，提供流暢的用戶體驗。
 - **RAG AI 問答**: 結合 Qdrant 向量資料庫與 FastAPI，打造基於自有知識庫的智能問答機器人。
 - **響應式網頁設計 (RWD)**: 前端使用 Vue 3 與 SCSS，確保在手機、平板、電腦上皆有完美體驗。
 
