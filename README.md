@@ -31,7 +31,7 @@
 
 | 項目 | 連結 | 帳號資訊 |
 | :--- | :--- | :--- |
-| **前端應用 (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) (請替換為您的真實網址) |  |
+| **前端應用 (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) |  |
 | **測試帳號 1** | | **帳號：** `demo.user@example.com` <br> **密碼：** `DemoPassword123!` |
 | **測試帳號 2** | | **帳號：** `test.user@example.com` <br> **密碼：** `TestPassword456!` |
 
