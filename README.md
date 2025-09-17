@@ -12,6 +12,12 @@
 | **AI 聊天服務** | FastAPI, MongoDB, Qdrant, Docker | [py_chat_service](https://github.com/lauchiwai/py_chat_service) | 聊天記錄儲存、RAG AI 問答、向量搜尋 |
 | **前端應用** | Vue 3, TypeScript, Pinia, Docker | [vue_chatroom_service](https://github.com/lauchiwai/vue_chatroom_service) | 響應式網頁、即時通訊、學習功能、雙 Token 驗證、CSP |
 
+| 項目 | 連結 | 帳號資訊 |
+| :--- | :--- | :--- |
+| **前端應用 (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) |  |
+| **測試帳號 1** | | **帳號：** `demo.user@example.com` <br> **密碼：** `DemoPassword123!` |
+| **測試帳號 2** | | **帳號：** `test.user@example.com` <br> **密碼：** `TestPassword456!` |
+
 ## 🛠️ 技術亮點 (Technical Highlights)
 
 ### 🔐 安全與架構
@@ -28,10 +34,4 @@
 - **容器化**: 所有服務均使用 Docker 容器化，便於開發、測試與部署。
 - **CI/CD 流水線**: 為每個服務建立了自動化建置、測試與部署流程。
 - **內容安全政策 (CSP)**: 於前端實施 CSP 標頭，有效防禦 XSS 等網路攻擊。
-
-| 項目 | 連結 | 帳號資訊 |
-| :--- | :--- | :--- |
-| **前端應用 (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) |  |
-| **測試帳號 1** | | **帳號：** `demo.user@example.com` <br> **密碼：** `DemoPassword123!` |
-| **測試帳號 2** | | **帳號：** `test.user@example.com` <br> **密碼：** `TestPassword456!` |
 
