@@ -15,6 +15,7 @@ The project consists of three core services. Click the links to view detailed co
 | Item | Link | Account Information |
 | :--- | :--- | :--- |
 | **Frontend Application (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) |  |
+| **Demo Video** | [https://www.youtube.com/shorts/KFJzDUnJtvw](https://www.youtube.com/shorts/KFJzDUnJtvw) |  |
 | **Test Account 1** | | **Username:** `user01` <br> **Password:** `a1234*` |
 | **Test Account 2** | | **Username:** `` <br> **Password:** `` |
 
