@@ -15,6 +15,7 @@
 | 項目 | 連結 | 帳號資訊 |
 | :--- | :--- | :--- |
 | **前端應用 (Vue.js)** | [https://oniind244.online/](https://oniind244.online/) |  |
+| **示範影片** | [https://www.youtube.com/shorts/KFJzDUnJtvw](https://www.youtube.com/shorts/KFJzDUnJtvw) |  |
 | **測試帳號 1** | | **帳號：** `user01` <br> **密碼：** `a1234*` |
 | **測試帳號 2** | | **帳號：** `` <br> **密碼：** `` |
 
